@@ -1,5 +1,3 @@
-- 👋 Hi, I'm @maria
-- 👀 
 My name is Maria, I'm a systems analysis and development student
 I'm 💞️ - trying on projects, ideas, innovations
 - 📫 How to reach me https://www.linkedin.com/in/deise-andrade-228028232/
